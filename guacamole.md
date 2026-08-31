@@ -10,7 +10,3 @@
 * jalapeno
 
 ## Instructions
-
-# edit and try to push again (31AUG2026)
-
-# edit -> commit -> push (31AUG2026)
